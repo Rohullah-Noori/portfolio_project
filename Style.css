@@ -1,0 +1,246 @@
+.box{
+    
+    width: 253px;
+    height: 245px;
+    margin-top: -9%;
+    background-color: rgb(38, 151, 131);
+    border-radius: 12px;
+
+}
+.child_div_for_play_btn{
+position: relative;
+background-color: aqua;
+
+
+}
+
+
+
+
+
+.player{
+    background-color: aqua;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100;
+    
+
+}
+
+.player-vid{
+color: white;
+
+box-shadow: 0 0 0 5px rgb(38, 151, 131);
+box-shadow: 10px 0 0 10px rgb(38, 151, 131);
+box-shadow: 0 10px 0 15px rgb(38, 151, 131);
+box-shadow: 0 0 20px 20px rgb(38, 151, 131);
+box-shadow: 0 0 0 25px rgb(38, 151, 131);
+box-shadow: 0px 0px 10px 30px green;
+}
+#rouler{
+    color: green;
+    background-color: green;
+    width: 300px;
+}
+
+#picture{
+    background-image: url(img/cta-bg.jpg);
+    /* background: rgba(0, 0,0, 0.6); */
+    background-position-y: center;
+   
+ width: 1100px;
+ height:470px; 
+ border-radius: 10px; 
+ margin-top: 6%;
+ background-size: cover;
+}
+.pad-box{
+    width:350px;
+    height: 350px;
+    margin-top: 9%;
+    border-radius: 12px;
+
+
+}
+.testiomnial-box{
+    width:328px;
+    height: 350px;
+    margin-top: 7%;
+    border-radius: 20px;
+    
+}
+#middle-box{
+    height: 370px;
+}
+#img_testimonial{
+    width: 100px; height: 100px; border-radius: 50px;
+}
+#bio_img_next{
+    /* width: 100px;
+    margin-top: -5%; margin-left: 2%; */
+    
+    
+}
+.img-portfolio{
+    width: 350px;
+    height: 300px;
+}
+.card-box{
+    width:366px;
+    height: 360px;
+    margin-top: 9%;
+    border-radius: 15px;
+   
+}
+/* for team boxes */
+.card-box-team{
+    width:280px;
+    height: 380px;
+    margin-top: 9%;
+    border-radius: 15px;
+     
+}
+/* img for team */
+.img-narrow{
+    width:220px;
+    height: 230px;
+    margin: 5%;
+    margin-left: 5.8%;
+    border-radius: 13px;
+}
+/* for team */
+.card-content{
+    border-radius: 10px;
+}
+/* for team */
+.card-bod{
+    margin-left: 9%;
+   margin-top:  -6%;
+}
+/* for texts between the card for team */
+.card-tex{
+    margin-top: -10%;
+    margin-left: 38%;
+    font-style: italic;
+}
+.icons{
+    border: 2px solid rgba(221, 221, 221, 1);
+    padding: 10px;
+    border-radius:50%;
+}
+/* start for pricing */
+.plane{
+    width: 390px;
+    height: 600px;
+   /* box-shadow: 0 0 0 0 20px white ;  */
+    border-radius: 12px;
+   
+
+}
+.active{
+    margin-top: -5%;
+    height: 700px;
+    border: 4px solid rgb(38, 151, 131);
+}
+
+
+#its_location_icon{
+    background-color: rgb(38, 151, 131);
+margin-top: 5px;
+padding: 10%;
+padding: 10% 10%;
+border-radius: 50%;
+outline-color: rgb(38, 151, 131);
+
+}
+.color-checking{
+    color: green;
+    font-size: small;
+}
+.frequent{
+font-size:17px; font-weight: 600;  border-radius: 15px;
+width: 400px;
+height: auto;
+margin-left:13%; 
+margin-top: 4%;  
+}
+/* end for pricing */
+
+/* start for blog */
+#img_blog{
+    width: 50px; height: 50px; border-radius: 50px;
+
+}
+/* end for blog */
+
+/* start of contact box */
+.contact-boxes{
+    width: 310px;
+    height: 95px;
+    border-radius: 15px;
+    background-color:rgb(38, 151, 131);
+    margin-top: 5%;
+    margin-left: 7%;
+    padding: 1%; 
+    margin-top: 5%;
+
+}
+.div_inside{
+    margin-top: 3%;
+    
+
+
+}
+#spanes{
+    margin-top: 9%;
+   width: 50px;
+    padding: 10%;
+    padding-right: 15%;
+    padding-left: 15%;
+    border-radius: 50%;
+    background-color:rgb(52, 197, 170);
+margin-left: 20%;
+}
+    
+/* end of contact box */
+/* start for end div compact */
+.icons-end-div{
+    border: 1px solid rgba(245, 245, 245, 0.507);
+    padding: 10px;
+    border-radius:50%;
+}
+.alinks{
+    font-size:small;
+    color: rgba(245, 245, 245, 0.746);
+    text-decoration: none;
+}.alinks:hover{
+    color: white;
+}
+
+/* for contact us */
+a.link{
+    color: whitesmoke;
+    font-size:small;
+
+}
+/* end for end div compact */
+ 
+/* about us icon */
+.playerwin{
+    /* background-color: rgb(38, 151, 131); */
+    margin-top: px;
+    padding: 10%;
+    border-radius: 50%;
+    outline-color: rgb(38, 151, 131);
+    
+}
+/* about us icon */
+
+  
+
+
+
+
+
